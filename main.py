@@ -1,6 +1,11 @@
-def main():
-    print("Hello from cookieclicker!")
+import pgzrun as pg
+from actors import *
+from constants import *
 
+WIDTH = width
+HEIGHT = height
 
-if __name__ == "__main__":
-    main()
+def draw():
+    background.draw()
+
+pg.go()
