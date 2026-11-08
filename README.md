@@ -1,4 +1,4 @@
-# *CookieClicker*
+# *Cookie Clicker*
 
 <a href="https://github.com/Bad0dour/CookieClicker/archive/refs/heads/main.zip">
    <img src="distribution/download-button.svg" alt="Download" height="60">
